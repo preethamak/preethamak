@@ -16,8 +16,8 @@
 
 ###  About Me
 <p align="center">
-  🔭 Building <b>AI-powered assistants</b>, <b>crypto market analysis tools</b>, and <b>space propulsion concepts</b><br>
-  🌱 Learning <b>AI Engineering</b>, <b>Full-Stack Development</b>, and <b>Advanced Electronics</b><br> 
+  🔭 Building <b>AI-powered automation systems</b> and <b>blockchain-based platforms</b><br>
+  🌱 Learning <b>Artificial Intelligence Engineering</b> and <b>Blockchain Development</b><br>
 </p>
 
 ---
