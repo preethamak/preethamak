@@ -1,49 +1,14 @@
-# 👋 Hi, I'm Preetham AK
-
-**AI & Web3 Developer**  
-Building decentralized, student-focused systems that combine blockchain and AI.
+<h1 align="center">Hi there 👋, I'm Preetham AK</h1>
+<h3 align="center">🚀 AI | Blockchain</h3>
 
 ---
-
-## 💫 About Me
-
-**Currently working on**  
-Building a Web3-based college notes and assignments platform with AI-powered summarization and on-chain verification to reduce malpractice and improve learning efficiency.
-
-**Looking to collaborate on**  
-Web3, blockchain, and AI projects that solve real problems for students and developers.
-
-**Currently learning**  
-Smart contract development (Vyper & Solidity), AI model integration, and full-stack Web3 systems.
-
-**Fun fact**  
-I enjoy breaking complex technical systems down until they become simple and practical.
+###  About Me
+<p align="center">
+  🔭 Building <b>AI-powered automation systems</b> and <b>blockchain-based platforms</b><br>
+  🌱 Learning <b>Artificial Intelligence Engineering</b> and <b>Blockchain Development</b><br>
+</p>
 
 ---
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preetham-a-k-18b97931b)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/preethamak17159)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preethamak07@gmail.com)
-
----
-
-## 🚀 Featured Project
-
-### Decentralized College Notes & Assignment System
-A Web3-based platform where:
-- Notes are stored securely using decentralized storage  
-- Assignments are verified on-chain to prevent tampering  
-- AI generates concise summaries to improve learning speed  
-
-**Tech Stack:**  
-Solidity / Vyper · IPFS · Python · React · Web3.js
-
----
-
-## 💻 Tech Stack
-
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -79,8 +44,8 @@ Solidity / Vyper · IPFS · Python · React · Web3.js
 ![](https://nirzak-streak-stats.vercel.app/?user=preethamak&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=preethamak&theme=dark&hide_border=false&layout=compact)
-
 ---
+
 ###  Contribution Graph
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -94,3 +59,20 @@ Solidity / Vyper · IPFS · Python · React · Web3.js
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/preetham-a-k-18b97931b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:preethamak07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/preethamak">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
