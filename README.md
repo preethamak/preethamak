@@ -81,7 +81,16 @@ Solidity / Vyper · IPFS · Python · React · Web3.js
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=preethamak&theme=dark&hide_border=false&layout=compact)
 
 ---
+###  Contribution Graph
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=preethamak&theme=react-dark&hide_border=true"/>
+  </a>
+</p>
 
-## 👀 Profile Views
+---
 
-[![](https://visitcount.itsvg.in/api?id=preethamak&icon=0&color=0)](https://visitcount.itsvg.in)
+###  Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
