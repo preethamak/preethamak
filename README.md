@@ -1,12 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Preetham AK</h1>
-<h3 align="center">Smart Contract developer and Auditor</h3>
-
----
-###  About Me
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Preetham%20AK&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&desc=Smart%20Contract%20Developer%20%7C%20Auditor&descAlign=50&descAlignY=55&fontColor=ffffff" />
 </p>
 
+---
+## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+
+I build blockchain systems with an emphasis on **secure smart contracts and audit-ready design**.
+
+My interests include contract security, gas optimization, and understanding how
+small logic flaws lead to large failures.
+I also work with AI to automate analysis and improve developer workflows.
 ---
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
