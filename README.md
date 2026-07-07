@@ -16,17 +16,17 @@ Outside of that, I spend my time thinking about smart contract auditing, protoco
 
 <br/>
 
-### 🎯 What I'm into these days
+###  What I'm into these days
 
-- 🔐 Smart contract security and auditing
-- 🤖 AI-assisted vulnerability detection and remediation
-- ⛓️ Blockchain infrastructure and protocol design
-- 🛠️ Open source tooling for developers
-- 📖 Learning more about AI/LLM engineering as it applies to security
+-  Smart contract security and auditing
+-  AI-assisted vulnerability detection and remediation
+-  Blockchain infrastructure and protocol design
+-  Open source tooling for developers
+-  Learning more about AI/LLM engineering as it applies to security
 
 <br/>
 
-### 🛠 Tools I reach for
+###  Tools I reach for
 
 **Languages**
 
@@ -67,7 +67,7 @@ Outside of that, I spend my time thinking about smart contract auditing, protoco
 
 <br/>
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 ![](https://github-readme-stats.vercel.app/api?username=preethamak&theme=tokyonight&show_icons=true&hide_border=true)
 
@@ -85,7 +85,7 @@ Outside of that, I spend my time thinking about smart contract auditing, protoco
 
 <br/>
 
-### 🌐 Get in Touch
+###  Get in Touch
 
 <p align="center">
 <a href="https://github.com/preethamak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
