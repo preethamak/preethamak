@@ -1,45 +1,99 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Preetham%20AK&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&desc=Security%20Researcher%20%7C%20Blockchain%20Developer%20%7C%20AI%20Engineer&descAlign=50&descAlignY=55&fontColor=ffffff" /
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Preetham%20AK&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&desc=Security%20Researcher%20%7C%20Blockchain%20Developer%20%7C%20AI%20Engineer&descAlign=50&descAlignY=55&fontColor=ffffff" />
+</p>
 
-# Hi, I'm Preetham 👋
- 
-I'm a security researcher and developer working mostly at the intersection of blockchain and AI. Right now most of my time goes into **Vyper Guard**, an open-source security analyzer I'm building for Vyper smart contracts, and into figuring out how AI can actually help catch and fix vulnerabilities instead of just flagging noise.
- 
+<h3 align="center">Hi 👋, I'm Preetham</h3>
+
+<p align="center">
+I'm a security researcher and developer working mostly at the intersection of blockchain and AI.<br/>
+Right now most of my time goes into <b>Vyper Guard</b>, an open-source security analyzer I'm building for Vyper smart contracts,<br/>
+and into figuring out how AI can actually help catch and fix vulnerabilities instead of just flagging noise.
+</p>
+
+<p align="center">
 Outside of that, I spend my time thinking about smart contract auditing, protocol design, and general blockchain security — with the occasional detour into full-stack web dev.
- 
-## What I'm into these days
- 
-- Smart contract security and auditing
-- AI-assisted vulnerability detection and remediation
-- Blockchain infrastructure and protocol design
-- Open source tooling for developers
-- Learning more about AI/LLM engineering as it applies to security
-## Tools I reach for
- 
-**Languages:** Python, Solidity, Vyper, JavaScript/TypeScript, C/C++
- 
-**Web & blockchain:** React, Next.js, Node.js, Express, Web3.js, Ethers.js, Hardhat, Foundry
- 
-**AI/ML:** PyTorch, scikit-learn, NumPy, Pandas, Matplotlib
- 
-**Everyday tools:** Git/GitHub, VS Code, Linux, PowerShell
- 
-## GitHub activity
- 
+</p>
+
+<br/>
+
+### 🎯 What I'm into these days
+
+- 🔐 Smart contract security and auditing
+- 🤖 AI-assisted vulnerability detection and remediation
+- ⛓️ Blockchain infrastructure and protocol design
+- 🛠️ Open source tooling for developers
+- 📖 Learning more about AI/LLM engineering as it applies to security
+
+<br/>
+
+### 🛠 Tools I reach for
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Vyper](https://img.shields.io/badge/Vyper-6C4AF2?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
+
+**Web & Blockchain**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+
+**Everyday Tools**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell)
+
+<br/>
+
+### 📊 GitHub Activity
+
 ![](https://github-readme-stats.vercel.app/api?username=preethamak&theme=tokyonight&show_icons=true&hide_border=true)
- 
+
 ![](https://nirzak-streak-stats.vercel.app/?user=preethamak&theme=tokyonight&hide_border=true)
- 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=preethamak&theme=tokyonight&layout=compact&hide_border=true)
- 
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=preethamak&theme=tokyo-night&hide_border=true"/>
 </p>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-## Get in touch
- 
-- GitHub: [preethamak](https://github.com/preethamak)
-- LinkedIn: [Preetham A K](https://www.linkedin.com/in/preetham-a-k-18b97931b/)
-- Email: [preethamak07@gmail.com](mailto:preethamak07@gmail.com)
-- Gdev: [preethamak](https://g.dev/preethamak)
+
+<br/>
+
+### 🌐 Get in Touch
+
+<p align="center">
+<a href="https://github.com/preethamak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/preetham-a-k-18b97931b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:preethamak07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+<a href="https://g.dev/preethamak"><img src="https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+</p>
+
+<p align="center">
+<i>Building secure software, one commit at a time.</i>
+</p>
