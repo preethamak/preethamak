@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Preetham%20AK&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&desc=Security%20Researcher%20%7C%20Blockchain%20Developer%20%7C%20AI%20Engineer&descAlign=50&descAlignY=55&fontColor=ffffff" />
 </p>
 
-<h3 align="center">Hi 👋, I'm Preetham</h3>
+<h3 align="center">Hi, I'm Preetham</h3>
 
 <p align="center">
 I'm a security researcher and developer working mostly at the intersection of blockchain and AI.<br/>
