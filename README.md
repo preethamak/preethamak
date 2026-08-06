@@ -5,13 +5,13 @@
 <h3 align="center">Hi, I'm Preetham</h3>
 
 <p align="center">
-I'm a security researcher and developer working mostly at the intersection of blockchain and AI.<br/>
-Right now most of my time goes into <b>Vyper Guard</b>, an open-source security analyzer I'm building for Vyper smart contracts,<br/>
-and into figuring out how AI can actually help catch and fix vulnerabilities instead of just flagging noise.
+I'm a security researcher and developer working on blockchain and AI.<br/>
+Now most of my time goes into <b>GuardRails</b>, Extension Analyzer,<br/>
+and into figuring out how AI can actually help catch and fix vulnerabilities.
 </p>
 
 <p align="center">
-Outside of that, I spend my time thinking about smart contract auditing, protocol design, and general blockchain security — with the occasional detour into full-stack web dev.
+Outside of that, I spend my time thinking about smart contract auditing, protocol design, and general blockchain security.
 </p>
 
 <br/>
@@ -19,8 +19,8 @@ Outside of that, I spend my time thinking about smart contract auditing, protoco
 ###  What I'm into these days
 
 -  Smart contract security and auditing
--  AI-assisted vulnerability detection and remediation
--  Blockchain infrastructure and protocol design
+-  Working on GuardRails
+-  Research about developer security tool
 -  Open source tooling for developers
 -  Learning more about AI/LLM engineering as it applies to security
 
@@ -33,18 +33,13 @@ Outside of that, I spend my time thinking about smart contract auditing, protoco
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Vyper](https://img.shields.io/badge/Vyper-6C4AF2?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
 
 **Web & Blockchain**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge)
 ![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
@@ -52,18 +47,9 @@ Outside of that, I spend my time thinking about smart contract auditing, protoco
 **AI & Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
-
-**Everyday Tools**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell)
 
 <br/>
 
@@ -89,11 +75,11 @@ Outside of that, I spend my time thinking about smart contract auditing, protoco
 
 <p align="center">
 <a href="https://github.com/preethamak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/preetham-a-k-18b97931b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/preetham-ak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:preethamak07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
 <a href="https://g.dev/preethamak"><img src="https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
 </p>
 
 <p align="center">
-<i>Building secure software, one commit at a time.</i>
+<i>Building secure software</i>
 </p>
