@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Preetham%20AK&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&desc=Security%20Researcher%20%7C%20Blockchain%20Developer%20%7C%20AI%20Engineer&descAlign=50&descAlignY=55&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Preetham%20AK&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&desc=Security%20Researcher%20%7C%20Blockchain%20Developer&descAlignY=55&fontColor=ffffff" />
 </p>
 
 <h3 align="center">Hi, I'm Preetham</h3>
@@ -8,11 +8,6 @@
 I'm a security researcher and developer working on blockchain and AI.<br/>
 Now most of my time goes into <b>GuardRails</b>, Extension Analyzer,<br/>
 and into figuring out how AI can actually help catch and fix vulnerabilities.
-</p>
-
-<p align="center">
-Outside of that, I spend my time thinking about smart contract auditing, protocol design, and general blockchain security.
-</p>
 
 <br/>
 
